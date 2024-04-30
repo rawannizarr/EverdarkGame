@@ -1,0 +1,252 @@
+fileFormatVersion: 2
+guid: d02854d1191531f4b8927ea4eb341aa7
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: -2709846724106343172
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_01|Tak
+  - first:
+      74: 6307014485748618162
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_01|Tak.001
+  - first:
+      74: -7439275771099056398
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_01|Take
+      00
+  - first:
+      74: -539555961225283853
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_02|Tak
+  - first:
+      74: -3364626034994126184
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_02|Take
+      00
+  - first:
+      74: -332262797019354828
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_03|Tak
+  - first:
+      74: 3459835342179221607
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_03|Take
+      00
+  - first:
+      74: 8091867762135904507
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_04|Tak
+  - first:
+      74: -8398524304553984160
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_04|Take
+      00
+  - first:
+      74: -1337574975343384024
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_05|Tak
+  - first:
+      74: -4456121014041844877
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_05|Take
+      00
+  - first:
+      74: 4397441506808613709
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_06a.001|Ta
+  - first:
+      74: 240568007373063102
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_06a|Take
+      0
+  - first:
+      74: -4346402517803500642
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_06b|Ta
+  - first:
+      74: -212640949857067733
+    second: Garden_Grass_04|Garden_Grass_01.001|Garden_Grass_01.001|Garden_Grass_06b|Take
+      0
+  - first:
+      74: -3695757613996033185
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_01.001|Take
+      001|La
+  - first:
+      74: -8348881625814749849
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_01|Take
+      001|La
+  - first:
+      74: 7056937409615052496
+    second: 'Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_01|Take
+      001|Layer '
+  - first:
+      74: 6007481071005946601
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_02.001|Take
+      001|La
+  - first:
+      74: 5678466766287518623
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_02|Take
+      001|La
+  - first:
+      74: 1858527628608496897
+    second: 'Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_02|Take
+      001|Layer '
+  - first:
+      74: 1541195102680823445
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_03.001|Take
+      001|La
+  - first:
+      74: 7684153338166521790
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_03|Take
+      001|La
+  - first:
+      74: 7493342788345357662
+    second: 'Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_03|Take
+      001|Layer '
+  - first:
+      74: -3590724517754059061
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_04.001|Take
+      001|La
+  - first:
+      74: 3047579229117507754
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Take
+      001|La
+  - first:
+      74: -1282857091767287918
+    second: 'Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Take
+      001|Layer '
+  - first:
+      74: 5534806867522458313
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_05.001|Take
+      001|La
+  - first:
+      74: 6459452184692287384
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_05|Take
+      001|La
+  - first:
+      74: 1966332667376556069
+    second: 'Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_05|Take
+      001|Layer '
+  - first:
+      74: -7982905413899222319
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_06a.001|Take
+      001|L
+  - first:
+      74: 138021913133010934
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_06a.002|Take
+      001|L
+  - first:
+      74: -8205689418026800431
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_06a|Take
+      001|Layer
+  - first:
+      74: 1669465273106443992
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_06b.001|Take
+      001|L
+  - first:
+      74: -4956223933421126434
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_06b|Take
+      001|L
+  - first:
+      74: 5449365550292078742
+    second: Garden_Grass_04|Garden_Grass_04|Garden_Grass_04|Garden_Grass_06b|Take
+      001|Layer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ground_Grass_01_Mesh
+    second: {fileID: 2100000, guid: 98458e5340227cb4eaf5dba31c117709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: checker_map_gravity
+    second: {fileID: 2100000, guid: 98458e5340227cb4eaf5dba31c117709, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 12
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

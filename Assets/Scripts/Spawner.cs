@@ -8,6 +8,7 @@ public class Spawner : MonoBehaviour
     public Transform[] points;
     public float beat = 60 / 130;
     private float timer;
+    
 
     // Start is called before the first frame update
     void Start()
@@ -20,12 +21,18 @@ public class Spawner : MonoBehaviour
     {
         if (timer > beat)
         {
-            GameObject sphere = Instantiate(spheres[Random.Range(0, 2)], points[Random.Range(0, 4)]);
-            sphere.transform.localPosition = Vector3.zero;
-            sphere.transform.Rotate(transform.forward, 90 * Random.Range(0, 4));
-            timer -= beat;
+            int sphereIndex = Random.Range(0, spheres.Length);
+            int pointsIndex = Random.Range(0, points.Length);
+
+            Instantiate(spheres[sphereIndex], points[pointsIndex]);
+            
+
+            timer = 0;
 
         }
         timer += Time.deltaTime;
+        
     }
+
+
 }

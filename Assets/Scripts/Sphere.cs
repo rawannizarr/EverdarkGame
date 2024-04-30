@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Sphere : MonoBehaviour
 {
+    public float speed = 4f;
     // Start is called before the first frame update
     void Start()
     {
@@ -13,6 +14,6 @@ public class Sphere : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        transform.position += Time.deltaTime * transform.forward * 2;
+        transform.position += Time.deltaTime * transform.forward * speed;
     }
 }
