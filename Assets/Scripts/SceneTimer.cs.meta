@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 26531c63388e34095bf20e60c378230c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - messagePanel: {fileID: 5280767481518404263, guid: 842840f3220934bfd95e37eb19b49253,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
