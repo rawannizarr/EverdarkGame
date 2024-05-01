@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 1451467375996692307}
   - component: {fileID: 7009942614328617422}
   - component: {fileID: -2719531962447542962}
+  - component: {fileID: -3138093023105013332}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -30,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 4816494004220885680}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: -0, y: 0.793, z: 4.48}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -64,7 +65,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 28100d3e030ec4f37915966ebf635f0b, type: 2}
+  - {fileID: 2100000, guid: c097b6790e38947af8fc9ba388208574, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -127,3 +128,18 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 15613919f949a496ea12bc675dfdfc8c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  speed: 4
+--- !u!114 &-3138093023105013332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4816494004220885680}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 15b05effe59aa406c92f1a33c8c64975, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  newMaterial: {fileID: 2100000, guid: 5a8cca218fd5f48dd83ee0350a6719e7, type: 2}
+  tag: VRRightController
